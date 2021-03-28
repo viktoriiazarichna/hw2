@@ -1,0 +1,14 @@
+.card-list {
+    display: flex;
+  justify-content: space-around;
+}
+
+.card {
+    width: 300px;
+    height: 150px;
+    background: lightblue;
+    border-radius: 15px;
+    border: 2px solid gray;
+    padding: 10px;  
+}
+
